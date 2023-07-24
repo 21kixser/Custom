@@ -25,7 +25,7 @@ local SpaceBarLabel = Instance.new("TextLabel")
 
 keystroke.Name = "keystroke"
 keystroke.Parent = ScreenGui
-keystroke.BackgroundColor3 = Color3.fromRGB(135, 206, 235)
+keystroke.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 keystroke.BackgroundTransparency = 1.000
 keystroke.Position = UDim2.new(-0.00722312089, 0, 0.690598845, 0)
 keystroke.Size = UDim2.new(0, 285, 0, 287)
