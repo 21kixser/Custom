@@ -87,7 +87,7 @@ DLabel.Position = UDim2.new(-0.142857015, 0, 0, 0)
 DLabel.Size = UDim2.new(0, 62, 0, 50)
 DLabel.Font = Enum.Font.FredokaOne
 DLabel.Text = "D"
-DLabel.TextColor3 = Color3.fromRGB(135, 206, 235)
+DLabel.TextColor3 = Color3.fromRGB(135,206,235)
 DLabel.TextSize = 32.000
 
 WKey.Name = "WKey"
@@ -121,13 +121,13 @@ UICorner_5.Parent = SpaceBar
 
 SpaceBarLabel.Name = "SpaceBarLabel"
 SpaceBarLabel.Parent = SpaceBar
-SpaceBarLabel.BackgroundColor3 = Color3.fromRGB(135, 206, 235)
+SpaceBarLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 SpaceBarLabel.BackgroundTransparency = 1.000
 SpaceBarLabel.Position = UDim2.new(0.304347903, 0, -0.806451619, 0)
 SpaceBarLabel.Size = UDim2.new(0, 62, 0, 50)
 SpaceBarLabel.Font = Enum.Font.FredokaOne
-SpaceBarLabel.Text = "___"
-SpaceBarLabel.TextColor3 = Color3.fromRGB(135, 206, 235)
+SpaceBarLabel.Text = ""
+SpaceBarLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpaceBarLabel.TextSize = 32.000
 
 local UserInputService = game:GetService("UserInputService")
