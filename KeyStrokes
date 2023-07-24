@@ -47,7 +47,7 @@ ALabel.Position = UDim2.new(-0.142857075, 0, 0, 0)
 ALabel.Size = UDim2.new(0, 62, 0, 50)
 ALabel.Font = Enum.Font.FredokaOne
 ALabel.Text = "A"
-ALabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+ALabel.TextColor3 = Color3.fromRGB(135, 206, 235)
 ALabel.TextSize = 32.000
 
 SKey.Name = "SKey"
@@ -87,7 +87,7 @@ DLabel.Position = UDim2.new(-0.142857015, 0, 0, 0)
 DLabel.Size = UDim2.new(0, 62, 0, 50)
 DLabel.Font = Enum.Font.FredokaOne
 DLabel.Text = "D"
-DLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+DLabel.TextColor3 = Color3.fromRGB(135, 206, 235)
 DLabel.TextSize = 32.000
 
 WKey.Name = "WKey"
