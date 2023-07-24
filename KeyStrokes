@@ -126,9 +126,9 @@ SpaceBarLabel.BackgroundTransparency = 1.000
 SpaceBarLabel.Position = UDim2.new(304347903, 0, -0.80645161, 0)
 SpaceBarLabel.Size = UDim2.new(0, 62, 0, 50)
 SpaceBarLabel.Font = Enum.Font.FredokaOne
-SpaceBarLabel.Text = "Space"
+SpaceBarLabel.Text = "___"
 SpaceBarLabel.TextColor3 = Color3.fromRGB(135, 206, 235)
-SpaceBarLabel.TextSize = 12.000
+SpaceBarLabel.TextSize = 32.000
 
 local UserInputService = game:GetService("UserInputService")
 
