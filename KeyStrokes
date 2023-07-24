@@ -81,7 +81,7 @@ UICorner_3.Parent = DKey
 
 DLabel.Name = "DLabel"
 DLabel.Parent = DKey
-DLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DLabel.BackgroundColor3 = Color3.fromRGB(135, 206, 235)
 DLabel.BackgroundTransparency = 1.000
 DLabel.Position = UDim2.new(-0.142857015, 0, 0, 0)
 DLabel.Size = UDim2.new(0, 62, 0, 50)
@@ -92,7 +92,7 @@ DLabel.TextSize = 32.000
 
 WKey.Name = "WKey"
 WKey.Parent = keystroke
-WKey.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+WKey.BackgroundColor3 = Color3.fromRGB(135, 206, 235)
 WKey.BackgroundTransparency = 0.450
 WKey.Position = UDim2.new(0.238436982, 0, 0.347000003, 0)
 WKey.Size = UDim2.new(0, 49, 0, 49)
@@ -126,7 +126,7 @@ SpaceBarLabel.BackgroundTransparency = 1.000
 SpaceBarLabel.Position = UDim2.new(0.304347903, 0, -0.806451619, 0)
 SpaceBarLabel.Size = UDim2.new(0, 62, 0, 50)
 SpaceBarLabel.Font = Enum.Font.FredokaOne
-SpaceBarLabel.Text = "_____"
+SpaceBarLabel.Text = "Space"
 SpaceBarLabel.TextColor3 = Color3.fromRGB(135, 206, 235)
 SpaceBarLabel.TextSize = 32.000
 
